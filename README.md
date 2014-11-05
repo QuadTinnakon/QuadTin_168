@@ -1,6 +1,10 @@
 Quad_168
 ========
 
+Video
+
+http://www.youtube.com/watch?v=OM8KFnqu2zM&list=UUK8SdBKqjdXghqlJf3-sZaQ
+
 #include <L3G4200D.h>
 
 #include <LSM303.h>
